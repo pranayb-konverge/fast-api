@@ -1,7 +1,7 @@
 # fast-api
 
 ## Installation and setup
-- [Video Link](https://www.youtube.com/watch?v=Wr1JjhTt1Xg){:target="_blank" rel="noopener"}
+- [Video Link](https://www.youtube.com/watch?v=Wr1JjhTt1Xg){:target="\_blank"}
 - Create a venv - `python3 -m venv fastapi`
 - Access the venv - `source fastapi/bin/activate`
 - Install below dependencies:
